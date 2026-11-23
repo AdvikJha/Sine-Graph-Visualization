@@ -1,6 +1,13 @@
 # Sine-Graph-Visualization
 Ever confused why a Sine graph looks the way it does? Use this to see for yourself!
 
+## Demo
+Press to watch on YouTube
+
+<a href="https://www.youtube.com/watch?v=pTVKczvzy6A">
+  <img src="https://img.youtube.com/vi/pTVKczvzy6A/maxresdefault.jpg" width="60%">
+</a>
+
 ## Explanation
 A sine graph has an x coordinate which is the angle and the y coordinate which is the sine of the angle (θ). The y coordinates of the two points from the circle and the newest point match up because $\sin(\theta)$ is equal to the y coordinate of the Unit Circle. The unit circle is simply a circle with a radius of 1.
 
