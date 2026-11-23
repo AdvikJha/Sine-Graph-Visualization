@@ -15,5 +15,5 @@ Next, download the .py file from this repository.
 
 Finally, go back to terminal and type in:
 ```
-python sine_graph_visual.py
+python downloads/sine_graph_visual.py
 ```
